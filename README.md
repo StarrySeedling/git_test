@@ -1,0 +1,1 @@
+This is StarSeed's first git project!
